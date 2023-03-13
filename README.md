@@ -1,4 +1,5 @@
 # MeuPortfolio-Responsivo
 
-Esse projeto é minha primeira experiência criando um site mais completo e com responsividade.
-O projeto será construido com PYTHON no backend, utilizando o framework FLASK, e JS, HTML, CSS/BOOTSTRAP,  no frontend.
+Este será o meu primeiro projeto de criação de um site completo e responsivo. Ele será construído utilizando o framework Flask em Python para o backend e JS, HTML, CSS/Bootstrap para o frontend.
+
+Versão Atual: modo responsivo feito
